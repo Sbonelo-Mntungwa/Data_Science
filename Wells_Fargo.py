@@ -1,3 +1,7 @@
+#Sbonelo Mntungwa
+#2 September 2019
+#NLP Program - Pricing Text Prediction
+
 import pandas as pd
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split as tts
